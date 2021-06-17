@@ -13,4 +13,3 @@ public class ExampleMixin {
 		System.out.println("This line is printed by an example mod mixin!");
 	}
 }
-//dasdfcxvef
